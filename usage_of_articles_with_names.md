@@ -1,6 +1,6 @@
 It hard to generalize usage with names, but it seems like if something is big enough to be unique like oceans, the Sun, seas, skyscrapers or exceptional like the Mona Lisa then "the" is used. And otherwise, absence of an article follows.
 
-If something has concrete name like hotels, theaters, museums or skyscrapers, then "the" is used (consider vs hospitals, stadiums).
+If something has concrete name like hotels, theaters, museums or skyscrapers, then "the" is used (consider vs hospitals, stadiums; is it social vs private?).
 
 If something can be represented as a group, then "the" is used with the group and no article is used with a single object, like a group of lakes or a group of mountains.
 
