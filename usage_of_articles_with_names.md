@@ -13,14 +13,14 @@ Questionable:
 - Stadiums, malls, hospitals (without an article) vs hotels, theaters, museums, skyscrapers (with "the")
 
 Exceptions:
-- [ ] Tower bridge
-- [ ] The High street
-- [ ] The Matterhorn mountain
-- [ ] The Grand canyon
-- [ ] Pattern "the ... of ..."
-  - [ ] The University of Colorado
-  - [ ] The Temple of Ranakpur
-  - [ ] The Cathedral of Siena
+- Tower bridge
+- The High street
+- The Matterhorn mountain
+- The Grand canyon
+- Pattern "the ... of ..."
+  - The University of Colorado
+  - The Temple of Ranakpur
+  - The Cathedral of Siena
 
 Note:
 - Archipelagos (which is a group of islands — use with "the")
