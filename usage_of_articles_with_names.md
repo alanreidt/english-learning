@@ -10,7 +10,7 @@ Questionable:
 - Swamps (using the)
 - Institutes (using the) vs Universities and Colleges (without an article)
 - Canyons (without an article)
-- Stadiums (without an article)
+- Stadiums, malls, hospitals (without an article) vs hotels, theaters, museums, skyscrapers (with "the")
 
 Exceptions:
 - [ ] Tower bridge
